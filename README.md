@@ -100,6 +100,7 @@ It is ***\*required to use MapReduce\**** to handle the calculation. Suppose the
 
 **(11.88640925 \* 2820 + 0.977028065 \* 67518) \* 6.784829586=675000 HKD** 
 
+
  
 
  
